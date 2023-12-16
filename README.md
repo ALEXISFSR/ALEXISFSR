@@ -9,5 +9,4 @@ A mediados de todo este tiempo como estudiante e aprendido difernetes cosas supe
 
 ###TECNOLOGIAS
 
-![gratis-png-programacion-de-java-kit-de-desarrollo-de-software-programacion-de-computadora-iconos-de-computadora-icono-de-lenguaje-de-programacion-thumbnail](https://github.com/ALEXISFSR/ALEXISFSR/assets/127924456/ac0b5e64-77da-486f-8407-626feac31f0b)
-[![JAVA]()]()
+##JAVA      ##HTML      ##CSS      ##JAVASCRIPT      ##PYTHON
