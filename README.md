@@ -7,6 +7,6 @@ En el 2020 me comenzo a interezar toda la parte de la programacion hasta que se 
 
 A mediados de todo este tiempo como estudiante e aprendido difernetes cosas super importantes que son las que me hacen reflejar estar dentro de la industria 🛫.
 
-###TECNOLOGIAS
+### TECNOLOGIAS
 
-##JAVA      ##HTML      ##CSS      ##JAVASCRIPT      ##PYTHON
+### JAVA      ###HTML      ###CSS      ###JAVASCRIPT      ###PYTHON
