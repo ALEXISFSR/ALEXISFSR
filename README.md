@@ -9,4 +9,8 @@ A mediados de todo este tiempo como estudiante e aprendido difernetes cosas supe
 
 ### TECNOLOGIAS ☕
 
-### JAVA      HTML       CSS      JAVASCRIPT      PYTHON
+### JAVA ☕     
+### HTML 👨🏽‍💻  
+### CSS 💻     
+### JAVASCRIPT  👾  
+### PYTHON👨🏽‍🎓
