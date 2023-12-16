@@ -9,4 +9,5 @@ A mediados de todo este tiempo como estudiante e aprendido difernetes cosas supe
 
 ###TECNOLOGIAS
 
-[![JAVA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.klipartz.com%2Fes%2Fsticker-png-gjrac&psig=AOvVaw19npgNfHaz2lfTJZdKZG69&ust=1702826586358000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD86MWhlIMDFQAAAAAdAAAAABAI)]()
+![gratis-png-programacion-de-java-kit-de-desarrollo-de-software-programacion-de-computadora-iconos-de-computadora-icono-de-lenguaje-de-programacion-thumbnail](https://github.com/ALEXISFSR/ALEXISFSR/assets/127924456/ac0b5e64-77da-486f-8407-626feac31f0b)
+[![JAVA]()]()
